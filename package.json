@@ -1,0 +1,23 @@
+{
+  "name": "oys-cli-webpack-react",
+  "version": "1.0.0",
+  "description": "person skill template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyangshan09/webpack-react.git"
+  },
+  "keywords": [
+    "javascript",
+    "js"
+  ],
+  "author": "Ouyang (510475607@qq.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ouyangshan09/webpack-react/issues"
+  },
+  "homepage": "https://github.com/ouyangshan09/webpack-react#readme"
+}
